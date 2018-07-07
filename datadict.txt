@@ -1,0 +1,20 @@
+UniversityDataset.csv:
+0:School,
+1:Year,
+2:Renovation year,
+3:capacity,
+4:enrollment,
+5:R&D,
+6:average attendance,
+7:type of school,
+8:donations,
+9:w-l ratio
+
+Comparisons.csv:
+0:School and Year e.g. CSU2014
+1:Enrollment to donation ratio,
+2:Capacity to attendance ratio,
+3:Old to new capacity ratio,
+4:Donations to R&D ratio,
+5:Enrollment to R&D ratio,
+6:Win-Loss to donations ratio
